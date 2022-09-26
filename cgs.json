@@ -1,970 +1,1212 @@
 [
   {
     "fullname": "MUAD AYANLE",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "SARAH ABDULLAHI ARAB",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "HANIF BISHAR",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "HAFSA BISHAR",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "ABDULLAHI SALAH",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "SALWA SALAH",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "HAIFA MOHAMED",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "ASMA KHALIF",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "YAHYA ABDISALAM",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "ZUHUR HUSSEIN",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "IBTISAM ABDULLAHI",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "MUMTAZ ABAS",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "SAIDO ABDINASIR",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "KHALID ABDIRAHMAN",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "ADEM MOHAMED",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "KHALID ABDIWALI",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "MUNASAR MOHAMED",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "ISMAIL OSMAN",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "OSMAN NAJI",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "OMAR NAJI",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "SUDEYS IBRAHIM JELLE",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "MUZAMIL IBRAHIM JELLE",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "ASIYA ABDIAZIZ",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "AISHA ABDIAZIZ",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "BALQISA MOHAMED",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 0
   },
   {
     "fullname": "JABIR ABDALA",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED ABDALA",
-    "class": "ABDISALAM"
+    "class": "ABDISALAM",
+    "is_male": 1
   },
   {
     "fullname": "ASHRAF FEISAL IBRO",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "ASMA FEISAL IBRO",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "NASRA MOHAMUD",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "NASTEHO MOHAMUD",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "NIMO MOHAMUD",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "ASMA FEISAL MOHAMED",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "RIYAN FEISAL MOHAMED",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "SUMAYA ABDI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "ZUBAIR ABDI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "AFNAN KHALIF",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "HUDAIFA ABDULLAHI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "MUHSIN DAUD",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "AMIIN YUSSUF",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "BILAL ISAK",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRIZAK BASHIR",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "RAYAN MOHAMED",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "ZAMZAM ABDIWALI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "SUNDUS ABDIWALI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "HUDAIFA ABDIWALI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "AISHA ALI SAHAL",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "HUDA ABDINASIR ALI",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "MOHAMED ABDULLE",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "IBRAHIM AHMED",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "SUMAYA ABDALA",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 0
   },
   {
     "fullname": "ZAKARIYE ABDALA",
-    "class": "ABDWELI"
+    "class": "ABDWELI",
+    "is_male": 1
   },
   {
     "fullname": "BAHJA KHALIF",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "BUSHRA KHALIF",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "KHALID MOHAMUD",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "BISHAR MOHAMUD",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "ILHAN BASHIR",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "ABDINASIR BASHIR",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "ANZAL BASHIR",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "MARIA ABDULLAHI",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "AMAL HUSSEIN",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "UBAID HUSSEIN",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "SALMA MOHAMED",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "BUSHRA MOHAMED",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "MUSAB LUQMAN",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "HAFSA ABDISALAM",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "ABDULLAHI MOHAMED GALBET",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN ABDULLAHI",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN MOHAMUD",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "RIYAN MOHAMUD",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "MOHAMEDAMIN MOHAMUD",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "MUSCAB MOHAMUD",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN SHAFI",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 1
   },
   {
     "fullname": "BAHJA SHAFFI",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "NASRA MOHAMED ISMAIL",
-    "class": "KHADAR"
+    "class": "KHADAR",
+    "is_male": 0
   },
   {
     "fullname": "ASMA ISMAIL",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "YAKUB ISMAIL",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "ABDULLAHI MOHAMED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN MOHAMED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "ABDIKADIR MOHAMED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN BASHIR",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "SADIQ BASHIR",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "AFNAN ABDIRIZAK",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "NAWAL MAHAD",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "HAFSA MOHAMED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "NADIA NOOR",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "MUSAB AMAR",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "ZAKI GULLED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "SUKEYNO MOHAMED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "HAMZA MOHAMED",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "SALMA OMAR",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 0
   },
   {
     "fullname": "ABDIBASID ABDULLAHI",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "ADNAN AYANLE",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "LIBAN HASSAN",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "MASLAH SALAH",
-    "class": "ABDILADIF"
+    "class": "ABDILADIF",
+    "is_male": 1
   },
   {
     "fullname": "MUSHTAQ MOHAMUD",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "MAYMUNA MOHAMUD",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "MISKI NOOR WARSAME",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "MUHSIN NOOR WARSAME",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "NAIMA KHALIF DAKANE",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "FATUMA KHALIF DAKANE",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "OMAR KHALIF DAKANE",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "ABDULLAHI ADEM",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "HAJIRA ADEM",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "KHALID BASHIR HAJI",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "JAMAL ABDULLAHI",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN HASSAN",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "MUAD ABDIRAHMAN",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "HAMZA ABDULLAHI",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "NASHAD NOOR",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 0
   },
   {
     "fullname": "HUDAIFA OMAR",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED MOHAMUD ABDI",
-    "class": "AHMED"
+    "class": "AHMED",
+    "is_male": 1
   },
   {
     "fullname": "AMIR ABDIRAHMAN",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "ANAS MOHAMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "KOWSAR MOHAMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "IKRAN ALI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "SUHEILA MOHAMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "SALMA ABDIKAFAR",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "SAMIRA MOHAMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "YUSRA HUSSEIN",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "NAZIA ABDULLAHI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "YAHYA MOHAMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "MASCUUD AHMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "IMRAN ABDULLAHI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED ABDIWALI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "HUDAIFA ABDIWALI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "MUZDALIFA ABDULLAHI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "MANDEQ ALI AHMED",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "ABDIHAFID ABDULLAHI",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 1
   },
   {
     "fullname": "ASMA ABDIKAFAR",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "ASMA ABDISHAKUR",
-    "class": "PREPRIMARY"
+    "class": "PREPRIMARY",
+    "is_male": 0
   },
   {
     "fullname": "FARDOWSA ABDIRASHID",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "YUSRA MOHAMED",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "RUWEDA HASSAN",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "FARHIYA MOHAMED",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "NASRA ISAK",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "MUMTAZ ABDIAZIZ",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "ZUMRA IBRAHIM",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "SALMA BASHIR",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 0
   },
   {
     "fullname": "SALMAN ABDIFATAH",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 1
   },
   {
     "fullname": "HASSAN ABDIRAHMAN",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 1
   },
   {
     "fullname": "ABDIAZIZ MOHAMED",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 1
   },
   {
     "fullname": "IBRAHIM MOHAMED",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 1
   },
   {
     "fullname": "ABDIKHALIQ ISAK",
-    "class": "Grade_one_Grade_two"
+    "class": "Grade_one_Grade_two",
+    "is_male": 1
   },
   {
     "fullname": "ABDIKADIR ABDULLAHI",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "ANFAC SAID",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "HAMZA ABDIRAHMAN ABDULLAHI",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED BASHIR",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "ZAMZAM AWIL",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "UMUHANI MOHAMED",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "MOHAMED ABDI",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "HAMZA ABDULLAHI",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "SAHLAN ADEN",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "ABDINASIR ABDIWALI",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "SAFA SALAH",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "IMAN ABDISALAM",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "AYUB SADIK",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "ASMA SADIK",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "SADIA OSMAN",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "ZUHUR NAJI",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "SALMA SAHAL",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "RAHMA MOHAMED YUSSUF",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "FAHIMA MOHAMED",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 0
   },
   {
     "fullname": "DAUD MOHAMUD",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "MAHIR MOHAMUD",
-    "class": "Grade_five"
+    "class": "Grade_five",
+    "is_male": 1
   },
   {
     "fullname": "AISHA ABDULLAHI",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "SUMAYA ABDULLAHI",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "SUMAYA ABDIRAHMAN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "HAMZA ABDIRAHMAN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "OMAR ABDULLAHI",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "ABDIHAFID OMAR",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN ABDULLAHI",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN BASHIR",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "OSAME ABDIRAHMAN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED ABDIRAHMAN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "SALMAN HASSAN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "SUMAYA YASIN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "AHMED ABDIWAHID",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN ABDIWAHID",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "ASMAA ALI HUSSEIN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "AMIIRA ALI HUSSEIN",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "AISHA NAJI",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "AMIIRA ABDULLE",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "AYAN ABDULLE",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "HANAN ABDI WARSAME",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "NAJAH ABDIWALI",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 0
   },
   {
     "fullname": "IMRAN AHMED",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "OMAR MOHAMUD",
-    "class": "Grade_six"
+    "class": "Grade_six",
+    "is_male": 1
   },
   {
     "fullname": "SAFWAN ABDULLAHI",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "MAARUF SAHAL",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "SUDEYS MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "MUSTAFA BASHIR",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED BASHIR",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIMAJID SADIQ",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "SHAKIR MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIKARIM MASLAH",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDULLAHI AHMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRASHID MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "SAACID MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED AQIL",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "OSAMA ABDIKADIR",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "DALMAR OMAR",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "SALAH SAHAL",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIBARI YUSSUF",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIQAFAR MOHAMUD",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIMALIK MOHAMUD",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "AHMED ADAN",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDISAMAD MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "AHMED HASSAN",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "IBRAHIM MOHAMUD",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIQANI MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "AHMED AAFI",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "FAIZA ADAN",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "MISKI YUSSUF",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "SARAH ADAM",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "MUMTAZ NOOR",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "AYAN ABDIRASHID",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "SUMAYA SAHAL",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "HAFSA IBRAHIM",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "MUSHTAQ MOHAMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "MAQSUD AYANLE",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "MUSHTAQ AHMED",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "ABDIRAHMAN ABDULLAHI",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "MOHAMED ABDULLAHI",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "ABDIRAHMAN YOLAH",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 1
   },
   {
     "fullname": "RAHMA KHALIF",
-    "class": "Standard_seven"
+    "class": "Standard_seven",
+    "is_male": 0
   },
   {
     "fullname": "FARTUN HUSSEIN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "MARYAM HUSSEIN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "NAHWA NOOR",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "MOHAMED HASSAN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 1
   },
   {
     "fullname": "RAHMA KHALIIF",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "FUAD ABDIKADIR",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 1
   },
   {
     "fullname": "FARHIYA ABDIKADIR",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "FAIZA ABDIKADIR",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "SAID SULEIMAN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 1
   },
   {
     "fullname": "AHMED SULEIMAN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 1
   },
   {
     "fullname": "YUSSUF SULEIMAN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 1
   },
   {
     "fullname": "ABDIKADIR ABDIRAHMAN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 1
   },
   {
     "fullname": "FATUMA ABDIRAHMAN",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "SALMA BASHIR",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "AYAN ABDULLE",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   },
   {
     "fullname": "AMIIRA ABDULLE",
-    "class": "Evening"
+    "class": "Evening",
+    "is_male": 0
   }
 ]
